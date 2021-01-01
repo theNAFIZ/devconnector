@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://nafiz:12121234@jobs-portal.iix04.mongodb.net/devcamper?retryWrites=true&w=majority",
+    "jwtSecret": "12121212"
+}
