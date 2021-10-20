@@ -1,0 +1,27 @@
+{
+  "name": "live-sports",
+  "version": "1.0.0",
+  "description": "Watch Live Sports for free from anywhere in the world! ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theNAFIZ/live-sports.git"
+  },
+  "keywords": [
+    "live-sports",
+    "live-cricket",
+    "t20worldcup",
+    "javascript",
+    "football",
+    "ipl-live"
+  ],
+  "author": "Naimur Nafiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theNAFIZ/live-sports/issues"
+  },
+  "homepage": "https://github.com/theNAFIZ/live-sports#readme"
+}
